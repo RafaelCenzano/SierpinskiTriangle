@@ -14,7 +14,7 @@ Suggested steps to complete this assignment:
 2. Write the `sierpinski` function:
 
     * If `len` is less than or equal to 20 (or some variable) 
-        * Draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len`.
+        * Draw a [triangle](https://processing.org/reference/triangle_.html) with the left corner at (`x`,`y`) and a base and height equal to `len`.
     * else
         * recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
         * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
@@ -37,6 +37,39 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Johnny](https://jowong30.github.io/SierpinskiTriangle/)   
+[Yanzhu](https://yanzhug.github.io/SierpinskiTriangle/)   
+[Edison](https://edchen5.github.io/SierpinskiTriangle/)   
+[Dylan](https://sinfinite01.github.io/SierpinskiTriangle/)   
+[Antonio](https://andzibmis.github.io/SierpinskiTriangle/)   
+[Marlon](https://marlonsm.github.io/SierpinskiTriangle/)   
+[Gabriela](https://gaquach.github.io/SierpinskiTriangle/)   
+[Ben](https://bencao1.github.io/SierpinskiTriangle/)   
+[Noah](https://bizaark.github.io/SierpinskiTriangle/)   
+[Rebecca](https://rebeccagin994.github.io/SierpinskiTriangle/)   
+[Tomas](https://todeluco.github.io/SierpinskiTriangle/)   
+[Rebecca](https://rebeccagin994.github.io/SierpinskiTriangle/)   
+[Tommy](https://imatomster.github.io/SierpinskiTriangle/)   
+[Dylan](https://sinfinite01.github.io/SierpinskiTriangle/)   
+[Marlon](https://marlonsm.github.io/SierpinskiTriangle/)   
+[Eric](https://erngo2.github.io/SierpinskiTriangle/)   
+[Justine](https://justineorgel.github.io/SierpinskiTriangle/)   
+[Nathan](https://natemarks2.github.io/SierpinskiTriangle/)   
+[Gabriela](https://gaquach.github.io/SierpinskiTriangle/)   
+[Theo](https://akir6939.github.io/SierpinskiTriangle/)   
+[Kai](https://kajjchang.github.io/SierpinskiTriangle/)   
+[Luna](http://loona.me/SierpinskiTriangle/)   
+[Claire](https://clrafferty.github.io/SierpinskiTriangle/)   
+[Kazu](https://chshimotake.github.io/SierpinskiTriangle/)   
+[Matt](https://madyer1.github.io/SierpinskiTriangle/)   
+[Tommy](https://imatomster.github.io/SierpinskiTriangle/)   
+[Ling Feng](https://ling1729.github.io/SierpinskiTriangle/)   
+[Jonathan](https://jonrfu.github.io/SierpinskiTriangle/)   
+[Riley](https://reilyfairchild.github.io/SierpinskiTriangle/)    
+[Robert](https://frestho.github.io/SierpinskiTriangle/)   
+[Kelly](https://kellyye22.github.io/SierpinskiTriangle/)   
+[Bryan](https://notbryann.github.io/SierpinskiTriangle/)   
+[Angel](https://angel-maker68.github.io/SierpinskiTriangle/)   
 [Mia](https://chenmia.github.io/SierpinskiTriangle/)   
 [David](https://dactualchung.github.io/SierpinskiTriangle/)    
 [Brandon](https://btlsandwich.github.io/SierpinskiTriangle/)   
