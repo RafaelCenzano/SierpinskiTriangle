@@ -1,6 +1,8 @@
 Sierpinski Triangle
 ==================
 
+[See it in action @ https://rafaelcenzano.com/apjava/starfield](https://rafaelcenzano.com/apjava/sierpinskitriangle)
+
 The Sierpinski Triangle is a fractal. According to [Wikipedia](http://en.wikipedia.org/wiki/Sierpinski_triangle) it was named after "mathematician Waclaw Sierpinski who described it in 1915. However, similar patterns appear already in the 13th-century Cosmati mosaics in the cathedral of Anagni, Italy." You can create the Sierpinski Triangle (and very similar fractals) with surprisingly little code. The following picture and instructions are also from Wikipedia.
 
 ![Alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sierpinski_triangle_evolution.svg/512px-Sierpinski_triangle_evolution.svg.png)
@@ -58,7 +60,8 @@ Samples of Student Work
 [Gabriela](https://gaquach.github.io/SierpinskiTriangle/)   
 [Theo](https://akir6939.github.io/SierpinskiTriangle/)   
 [Kai](https://kajjchang.github.io/SierpinskiTriangle/)   
-[Luna](http://loona.me/SierpinskiTriangle/)   
+[Luna](http://loona.me/SierpinskiTriangle/)
+[Rafael](https://rafaelcenzano.com/apjava/sierpinskitriangle)
 [Claire](https://clrafferty.github.io/SierpinskiTriangle/)   
 [Kazu](https://chshimotake.github.io/SierpinskiTriangle/)   
 [Matt](https://madyer1.github.io/SierpinskiTriangle/)   
